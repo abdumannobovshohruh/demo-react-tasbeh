@@ -34,7 +34,8 @@ body{
     background-color: green;
   }
 body{
-  height: 500px;
+  background-size: cover;
+  height: 640px;
 }
 .bir{
   height: 50px;
