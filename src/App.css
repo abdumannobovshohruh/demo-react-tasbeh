@@ -1,8 +1,13 @@
 
-button{
+.fey{
   border-radius: 50%;
-  padding: 20px;
+  padding: 50px;
   color: red;
+}
+.bir{
+  padding: 20px;
+  border-radius: 50%;
+  background-color: yellow;
 }
 .zero{
   margin: auto;

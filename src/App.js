@@ -10,12 +10,13 @@ function App() {
     <>
    <div className='zero'>
  <div className='one'>
- <button onClick={() => Setcount(0)}   className='bir'>
+ <button clas onClick={() => Setcount(0)}   className='bir'>
       {count}
     </button>
  </div>
+ <h1>خرز</h1>
   <div className='two'>
-  <button onClick={()=>Setcount(count+1)}>start</button>
+  <button className='fey' onClick={()=>Setcount(count+1)}>start</button>
   </div>
    </div>
     </>
@@ -23,3 +24,5 @@ function App() {
 }
 
 export default App;
+/* react proekt ochish uchun terminalda npx creacte-react-app qo'shtirnoqsiz fayl nomi yoziladi */
+/* terminalda brauzer sihga tushishi uchun npm start yoziladi */
