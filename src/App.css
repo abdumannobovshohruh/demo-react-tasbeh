@@ -33,5 +33,11 @@ body{
     text-align: center;
     background-color: green;
   }
-
+body{
+  height: 500px;
+}
+.bir{
+  height: 50px;
+  width: 50px;
+}
 }
